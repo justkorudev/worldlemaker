@@ -15,7 +15,8 @@ This is a clone project of the popular word guessing game we all know and love. 
 Clone the repository and perform the following command line actions:
 
 ```bash
-$> cd react-wordle
+$> git clone https://github.com/justkorudev/worldlemaker
+$> cd wordlemaker
 $> npm install
 $> npm run start
 ```
